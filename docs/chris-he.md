@@ -9,3 +9,5 @@
 **hobby:** fantasy football
 
 **favoirte color:** blue
+
+**favorite sports team:** giants
